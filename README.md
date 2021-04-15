@@ -1,4 +1,4 @@
-## Assignments 
+# Assignments 
 
 ### Adventure Game
 ![Image](https://puu.sh/HysCp/537295e14b.png)
@@ -10,7 +10,7 @@ Based on a dating simulator. Each time the player progresses through the story, 
 
 ### Trivia Game
 
-## Group Projects
+# Group Projects
 
 ### Underwater Creatures
 
