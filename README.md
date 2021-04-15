@@ -19,13 +19,18 @@ A trivia application that allows a player to type in their guess.
 # Group Projects
 
 ### Underwater Creatures
+A project that demonstrates inheritance, polymorphism, and encapsulation. 
 
 ### Substitution Cipher
 An application that encodes and decodes using a simple substitution cipher.
 
 ### Explorable Areas
+A command-line game application with areas to explore, with items for the player to find in each area.
 
 ### Store Application
+
+Allows players to order items from a menu.
+
 ```markdown
 class Player
     {
