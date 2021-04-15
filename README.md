@@ -7,15 +7,46 @@ A non-violent and non-linear game.
 Based on a dating simulator. Each time the player progresses through the story, they pick up a random item to give to their desired character.
 
 ### Study Application
+![Image](https://puu.sh/HysMf/ee756c66de.png)
 
-### Trivia Game
+A study application that tests the player's ability to match a term to the correct definition.
+
+### Trivia Game 1.0
+![Image](https://puu.sh/HysPx/51d05762f2.png)
+
+A trivia application that allows a player to type in their guess.
 
 # Group Projects
 
 ### Underwater Creatures
 
 ### Substitution Cipher
+An application that encodes and decodes using a simple substitution cipher.
 
 ### Explorable Areas
 
-### Tip Calculator with Casting and Exception Handling
+### Store Application
+```markdown
+class Player
+    {
+        public string Name;
+        public double Money;
+
+        public Player(string name, double money)
+        {
+            Name = name;
+            Money = money;
+        }
+        public void Greeting()
+        {
+            Console.WriteLine($"What is your name? ");
+            string name = Console.ReadLine();
+            string result = "Nice to meet you, " + name;
+            Console.WriteLine(result);
+        }
+        public void ShowBudget()
+        {
+            double money = 15;
+            Console.WriteLine($"You have {money:c}");
+        }
+```        
