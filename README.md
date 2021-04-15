@@ -1,6 +1,6 @@
 # Mustafa's Projects
 
 ## Adventure Game
-![Image](https://github.com/MustafaColum/mustafacolum.github.io/blob/main/image.png)
+![Image](https://puu.sh/HysCp/537295e14b.png)
 
 A non-violent and non-linear game.
